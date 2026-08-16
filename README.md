@@ -42,6 +42,7 @@ Built predictive models (regression, decision trees) and applied statistical ana
 ### 📫 Let's connect
 - Email: tejaswini301194@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tejaswini-jayagopi/
+- Portfolio: https://tejaswini301194.github.io/
 
 
 ---
