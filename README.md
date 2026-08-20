@@ -1,7 +1,6 @@
 # Hi, I'm Tejaswini 👋
 
-I build **agentic AI systems and RAG pipelines** - backed by 6 years of data analytics and data engineering experience, including work in FDA/EMA-regulated environments.
-
+I build **agentic AI systems and RAG pipelines** - backed by 6 years of data analytics and data engineering experience.
 I'm currently transitioning that foundation into AI engineering, with a focus on multi-agent architectures, retrieval systems, and production deployment.
 
 ---
