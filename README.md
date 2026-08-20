@@ -9,7 +9,7 @@ I'm currently transitioning that foundation into AI engineering, with a focus on
 ### 🔭 What I'm working on
 - Building and deploying **production-grade multi-agent systems** with human-in-the-loop approval gates
 - Completing my **M.S. in Information Technology & Management at UT Dallas** (expected Dec 2026)
-- Interviewing for **Forward Deployed Engineer / Applied AI Engineer** roles
+- Interviewing for **Software, AI, AI&ML ** roles
 
 ### 🚀 Featured Projects
 
