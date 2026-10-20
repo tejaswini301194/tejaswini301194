@@ -1,47 +1,98 @@
 # Hi, I'm Tejaswini 👋
 
-I build **agentic AI systems and RAG pipelines** - backed by 6 years of data analytics and data engineering experience.
-I'm currently transitioning that foundation into AI engineering, with a focus on multi-agent architectures, retrieval systems, and production deployment.
+I'm a **Software and Data Engineer** with experience in building data pipelines, automating workflows, and developing data-driven solutions. Currently pursuing my **M.S. in Information Technology and Management at the University of Texas at Dallas**, graduating in December 2026.
+
+My interests lie at the intersection of **Data Engineering, Machine Learning, and Artificial Intelligence**. I enjoy working across the data and AI lifecycle — from data processing and pipeline development to predictive modeling, intelligent applications, and cloud deployment.
+
+Through professional experience and hands-on projects, I've worked with **Python, SQL, Apache Spark, Airflow, AWS, machine learning, RAG, and multi-agent AI systems**.
 
 ---
 
-### What I'm working on
-- Building and deploying **production-grade multi-agent systems** with human-in-the-loop approval gates
-- Completing my **M.S. in Information Technology & Management at UT Dallas** (expected Dec 2026)
-- Open to opportunities in Software Engineering, AI/ML Engineering, and Applied AI roles - let's talk if you're hiring or know a team that is.
+### 🚀 What I'm Working On
 
-### Featured Projects
+- Building scalable **data pipelines and automated data workflows**
+- Developing **AI/ML applications** using Python and modern frameworks
+- Exploring **Generative AI, RAG, and multi-agent architectures**
+- Deploying data and AI applications using **Docker, FastAPI, and AWS**
+- Improving my understanding of **ML systems, cloud infrastructure, and production-oriented engineering**
 
-**[Pipeline Rescue Agent](https://github.com/tejaswini301194/pipeline-rescue-agent)** -Multi-Agent AI System for Data Pipeline Diagnostics
-Designed and deployed a multi-agent system (Orchestrator, Diagnostic Agent, Recommendation Agent) with a human-approval gate to diagnose and recommend fixes for broken data pipelines, using an MCP tool server for agent-tool communication. Migrated to a Dockerized PostgreSQL backend, built a FastAPI service with non-blocking endpoints and API key auth, then containerized and deployed to AWS (ECR, EC2, RDS). Resolved real production issues during deployment - IAM misconfigurations, cross-OS dependency conflicts, environment-file corruption - and published full documentation covering 12 engineering issues resolved.
-`Python` `FastAPI` `Docker` `PostgreSQL` `AWS (ECR · EC2 · RDS)` `MCP`
+---
 
-**Research-Paper RAG Assistant**
-Built a retrieval-augmented Q&A system over research papers using section-aware chunking, embedding-based search, and prompt engineering, with a quantitative evaluation framework (Recall@K, MRR).
-`Python` `LangChain` `FAISS` `OpenAI API` `PyPDF`
+### 🛠️ Featured Projects
 
-### Professional Background
+#### 🤖 [Pipeline Rescue Agent](https://github.com/tejaswini301194/pipeline-rescue-agent)
+**Multi-Agent AI for Data Pipeline Diagnostics**
 
-**LabCorp Early Development** - Nonclinical Data Associate / Engineer (05/2022 – 01/2025)
-Built ML-based anomaly detection and predictive models to flag data quality issues in regulated datasets, cutting manual review effort by 18% while meeting FDA/EMA validation requirements. Delivered dashboards and reports (Tableau, Power BI) to business and compliance stakeholders.
+Built and deployed a multi-agent application to diagnose data pipeline failures and recommend corrective actions.
 
-**Wurth Electronics India** - Order Data Analyst (11/2018 – 05/2022)
-Built predictive models (regression, decision trees) and applied statistical analysis to optimize stock allocation and demand forecasting - improving inventory efficiency by 20% and reducing overstock by 15%.
+- Designed Orchestrator, Diagnostic, and Recommendation agents with MCP-based tool integration.
+- Implemented human-in-the-loop approval for recommended changes.
+- Developed authenticated FastAPI endpoints with PostgreSQL integration.
+- Containerized and deployed the application using Docker and AWS (EC2, ECR, RDS).
 
-### Education
-- M.S. Information Technology & Management - **University of Texas at Dallas** (expected 12/2026)
-- B.E. Electrical and Electronics - Visveswaraya Technological University, India (01/2016)
+**Tech:** `Python` `FastAPI` `PostgreSQL` `Docker` `AWS` `MCP` `Multi-Agent AI`
 
-### Tech I work with
-**AI & Agentic Systems:** LLM app development, multi-agent orchestration, MCP, RAG (LangChain, FAISS), prompt engineering, human-in-the-loop workflow design, OpenAI API
-**Programming & ML:** Python (Pandas, NumPy, scikit-learn, TensorFlow), SQL, FastAPI, Git/GitHub
-**Data Engineering & Cloud:** Apache Spark, Airflow, ETL pipelines, PostgreSQL, Docker, AWS (S3, Glue, EC2, ECR, RDS), GCP (BigQuery, Dataproc), Azure Data Factory
-**Visualization:** Tableau, Power BI
+#### 📚 Research Paper RAG Assistant
+**Retrieval-Augmented Generation and Semantic Search**
 
-### Let's connect
-- Email: tejaswini301194@gmail.com
-- LinkedIn: https://www.linkedin.com/in/tejaswini-jayagopi/
-- Portfolio: https://tejaswini301194.github.io
+Developed a research assistant that retrieves relevant information from academic PDFs and generates context-aware responses.
+
+- Implemented section-aware document chunking and FAISS-based semantic retrieval.
+- Integrated OpenAI models for question answering.
+- Evaluated retrieval performance using Recall@K and MRR.
+
+**Tech:** `Python` `LangChain` `FAISS` `OpenAI API` `RAG` `PyPDF`
+
+---
+
+### 💼 Professional Background
+
+**LabCorp Early Development | Nonclinical Data Associate – Engineer**  
+*May 2022 – January 2025*
+
+- Developed ETL pipelines using Python, SQL, and Apache Spark to process pharmaceutical research datasets.
+- Automated workflows with Apache Airflow and implemented data quality validation using Pandas.
+- Worked with BigQuery and PostgreSQL for data processing and downstream analysis.
+- Built Power BI dashboards for data quality and compliance reporting.
+
+**Wurth Electronics India | Order Data Analyst**  
+*November 2018 – May 2022*
+
+- Automated data extraction, transformation, and reporting using Python and SQL.
+- Applied predictive modeling and statistical analysis to demand forecasting and inventory planning.
+- Developed Tableau dashboards to support operational and business decisions.
+
+---
+
+### 💻 Technical Skills
+
+**Programming & Backend:** Python, SQL, FastAPI, REST APIs
+
+**Data Engineering:** Apache Spark, Airflow, ETL Pipelines, PostgreSQL, BigQuery, Pandas
+
+**Machine Learning & AI:** scikit-learn, TensorFlow, NumPy, Predictive Modeling, LLMs, RAG, LangChain, FAISS, MCP, Multi-Agent Systems
+
+**Cloud & DevOps:** AWS (S3, Glue, EC2, ECR, RDS), GCP (BigQuery, Dataproc), Azure Data Factory, Docker, Git/GitHub
+
+**Analytics & Visualization:** Power BI, Tableau, Statistical Analysis
+
+---
+
+### 🎓 Education
+
+**University of Texas at Dallas**  
+M.S. Information Technology and Management | December 2026
+
+**Visvesvaraya Technological University**  
+B.E. Electrical and Electronics Engineering
+
+---
+
+### 🤝 Let's Connect
+
+I'm exploring opportunities in **Data Engineering, AI/ML Engineering, Applied AI, and Software Engineering**.
+
+Interested in building reliable data systems, intelligent applications, and scalable solutions that solve real-world problems.
 
 
 ---
